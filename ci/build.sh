@@ -153,6 +153,7 @@ x86_64-unknown-redox \
 
 RUST_APPLE_TARGETS="\
 aarch64-apple-ios \
+powerpc-apple-darwin \
 x86_64-apple-darwin \
 x86_64-apple-ios \
 "
